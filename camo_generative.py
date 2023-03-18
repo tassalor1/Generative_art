@@ -43,5 +43,5 @@ for _ in range(50):
 ax.set_xticks([])
 ax.set_yticks([])
 
-# Show
+# Show art
 plt.show()
